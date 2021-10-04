@@ -1,0 +1,11 @@
+Model,Dataset,Accuracy
+TraceEquivalence,BPI14,0.57
+TraceEquivalence,Traffic,0.99
+TraceEquivalence,Artificial,0.63
+NGram,BPI14,0.0
+NGram,Traffic,0.0
+NGram,Artificial,0.54
+WeakOrder,BPI14,0.0
+WeakOrder,Traffic,0.98
+WeakOrder,Artificial,0.53
+
