@@ -1,0 +1,18 @@
+# files
+*.pnml
+.DS_Store
+*.pdf
+*.gv
+*.iml
+*.xml
+*.xes
+*.pyc
+
+# directories
+__pycache__/
+.idea
+build/
+dist/
+pmlab_lite.egg-info/
+.ipynb_checkpoints/
+xes_certification/XES_certification_import_logs/Real-life/
