@@ -12,7 +12,7 @@ RESULTS
 -- N-Gram Model Accuracy --
     
     N                : 2       3       4       5       6       7
-    BPIC14 Log       : 0.43                    -       -       - 
+    BPIC14 Log       : 0.43    0.43            -       -       - 
     Traffic Fines Log: 0.99    0.98    0.99    -       -       -
     Artificial Log   : 0.54    0.60    0.62    0.62    0.63    0.63
     
